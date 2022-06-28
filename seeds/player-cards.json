@@ -1,0 +1,242 @@
+{
+  "Algiers": {
+    "country": "Algeria",
+    "continent": "Africa",
+    "affiliation": "allied"
+  },
+  "Atlanta": {
+    "country": "United States",
+    "continent": "North America",
+    "affiliation": "allied"
+  },
+  "Baghdad": {
+    "country": "Iraq",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Bangkok": {
+    "country": "Thailand",
+    "continent": "Asia",
+    "affiliation": "neutral"
+  },
+  "Bogota": {
+    "country": "Colombia",
+    "continent": "South America",
+    "affiliation": "neutral"
+  },
+  "Bombay": {
+    "country": "India",
+    "continent": "Asia",
+    "affiliation": "neutral"
+  },
+  "Buenos Aires": {
+    "country": "Argentina",
+    "continent": "South America",
+    "affiliation": "neutral"
+  },
+  "Cairo": {
+    "country": "Egypt",
+    "continent": "Africa",
+    "affiliation": "soviet"
+  },
+  "Calcutta": {
+    "country": "India",
+    "continent": "Asia",
+    "affiliation": "neutral"
+  },
+  "Delhi": {
+    "country": "India",
+    "continent": "Asia",
+    "affiliation": "neutral"
+  },
+  "East Berlin": {
+    "country": "German Democratic Republic",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "Hanoi": {
+    "country": "Dem. Republic of Vietnam",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Havana": {
+    "country": "Cuba",
+    "continent": "North America",
+    "affiliation": "soviet"
+  },
+  "Istanbul": {
+    "country": "Turkey",
+    "continent": "Europe",
+    "affiliation": "allied"
+  },
+  "Jakarta": {
+    "country": "Indonesia",
+    "continent": "Pacific Rim",
+    "affiliation": "neutral"
+  },
+  "Johannesburg": {
+    "country": "South Africa",
+    "continent": "Africa",
+    "affiliation": "allied"
+  },
+  "Karachi": {
+    "country": "Pakistan",
+    "continent": "Asian",
+    "affiliation": "neutral"
+  },
+  "Khartoum": {
+    "country": "Sudan",
+    "continent": "Africa",
+    "affiliation": "neutral"
+  },
+  "Kiev": {
+    "country": "Soviet Union",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "Lagos": {
+    "country": "Nigeria",
+    "continent": "Africa",
+    "affiliation": "neutral"
+  },
+  "Leningrad": {
+    "country": "Soviet Union",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "Leopoldville": {
+    "country": "Congo-Leopoldville",
+    "continent": "Africa",
+    "affiliation": "neutral"
+  },
+  "Lima": {
+    "country": "Peru",
+    "continent": "Africa",
+    "affiliation": "neutral"
+  },
+  "London": {
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "affiliation": "allied"
+  },
+  "Los Angeles": {
+    "country": "United States",
+    "continent": "North America",
+    "affiliation": "allied"
+  },
+  "Madrid": {
+    "country": "Spain",
+    "continent": "Europe",
+    "affiliation": "neutral"
+  },
+  "Manila": {
+    "country": "Philippines",
+    "continent": "Europe",
+    "affiliation": "neutral"
+  },
+  "Mexico City": {
+    "country": "Mexico",
+    "continent": "North America",
+    "affiliation": "neutral"
+  },
+  "Moscow": {
+    "country": "Soviet Union",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "New York": {
+    "country": "United States",
+    "continent": "North America",
+    "affiliation": "allied"
+  },
+  "Novosibirsk": {
+    "country": "Soviet Union",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Osaka": {
+    "country": "Japan",
+    "continent": "Pacific Rim",
+    "affiliation": "neutral"
+  },
+  "Paris": {
+    "country": "France",
+    "continent": "Europe",
+    "affiliation": "allied"
+  },
+  "Peking": {
+    "country": "People's Republic of China",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Prague": {
+    "country": "Czechoslovakia",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "Pyongyang": {
+    "country": "DPR Korea",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Riyadh": {
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "affiliation": "neutral"
+  },
+  "Rome": {
+    "country": "Italy",
+    "continent": "Europe",
+    "affiliation": "allied"
+  },
+  "Saigon": {
+    "country": "Republic of Vietnam",
+    "continent": "Asia",
+    "affiliation": "allied"
+  },
+  "San Francisco": {
+    "country": "United States",
+    "continent": "North America",
+    "affiliation": "allied"
+  },
+  "Santiago": {
+    "country": "Chile",
+    "continent": "South America",
+    "affiliation": "neutral"
+  },
+  "Sao Paulo": {
+    "country": "Brazil",
+    "continent": "South America",
+    "affiliation": "neutral"
+  },
+  "Shanghai": {
+    "country": "People's Republic of China",
+    "continent": "Asia",
+    "affiliation": "soviet"
+  },
+  "Sydney": {
+    "country": "Australia",
+    "continent": "Pacific Rim",
+    "affiliation": "allied"
+  },
+  "Tokyo": {
+    "country": "Japan",
+    "continent": "Pacific Rim",
+    "affiliation": "neutral"
+  },
+  "Toronto": {
+    "country": "Canada",
+    "continent": "North America",
+    "affiliation": "allied"
+  },
+  "Warsaw": {
+    "country": "Poland",
+    "continent": "Europe",
+    "affiliation": "soviet"
+  },
+  "Washington": {
+    "country": "United States",
+    "continent": "North America",
+    "affiliation": "allied"
+  }
+}

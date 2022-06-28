@@ -3,6 +3,11 @@ const { Client, Intents, Interaction, Collection } = require('discord.js');
 const { token } = require('./config.json');
 const fs = require('node:fs')
 const path = require('node:path')
+const User = require('./models/user');
+
+const players = require('./seeds/players.json');
+const playerCards = require('./seeds/player-cards.json');
+const PlayerCard = require('./models/player-card');
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
@@ -16,6 +21,19 @@ for (const file of commandFiles) {
   const filePath = path.join(commandsPath, file)
   const command = require(filePath)
   client.commands.set(command.data.name, command)
+}
+
+// Players
+client.players = new Collection();
+for (const key in players) {
+	client.players.set(key.toLowerCase(), new User(key))
+}
+
+// Player Cards
+client.playerCards = new Collection();
+for (const key in playerCards) {
+	const playerCard = playerCards[key]
+	client.playerCards.set(key.toLowerCase(), new PlayerCard(key, playerCard.country, playerCard.continent, playerCard.affiliation))
 }
 
 // Events
