@@ -1,0 +1,194 @@
+{
+  "Algiers": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in North America."
+  },
+  "Atlanta": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Asia."
+  },
+  "Baghdad": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in the Pacific Rim."
+  },
+  "Bangkok": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  },
+  "Bagota": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in North America."
+  },
+  "Bombay": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in the Pacific Rim."
+  },
+  "Buenos Aires": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in South America or Europe (that are not in a safehouse) each lose 1 cover."
+  },
+  "Cairo": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Europe."
+  },
+  "Calcutta": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Africa."
+  },
+  "Delhi": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Africa."
+  },
+  "East Berlin": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in South America."
+  },
+  "Hanoi": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in South America."
+  },
+  "Havana": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in Asia and return it to the supply."
+  },
+  "Istanbul": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in Africa and return it to the supply."
+  },
+  "Jakarta": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Europe."
+  },
+  "Johannesburg": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in South America and return it to the supply."
+  },
+  "Karachi": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in South America."
+  },
+  "Khartoum": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Asia."
+  },
+  "Kiev": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in Pacific Rim and return it to the supply."
+  },
+  "Lagos": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in South America."
+  },
+  "Leningrad": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  },
+  "Leopoldville": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in Africa or Asia (that are not in a safehouse) each lose 1 cover."
+  },
+  "Lima": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Europe."
+  },
+  "London": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Asia."
+  },
+  "Los Angeles": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Europe."
+  },
+  "Madrid": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in the Pacific Rim."
+  },
+  "Manila": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Asia."
+  },
+  "Mexico City": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in the Pacific Rim."
+  },
+  "Moscow": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in Europe or Africa (that are not in a safehouse) each lose 1 cover."
+  },
+  "New York": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in North America or South America (that are not in a safehouse) each lose 1 cover."
+  },
+  "Novosibirsk": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Europe."
+  },
+  "Osaka": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in the Pacific Rim or North America (that are not in a safehouse) each lose 1 cover."
+  },
+  "Paris": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in North America."
+  },
+  "Peking": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in North America and return it to the supply."
+  },
+  "Prague": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Asia."
+  },
+  "Pyongyang": {
+    "incident-name": "Safehouse Compromised",
+    "incident-desc": "Remove 1 safehouse in Europe and return it to the supply."
+  },
+  "Riyadh": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in North America."
+  },
+  "Rome": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Africa."
+  },
+  "Saigon": {
+    "incident-name": "Recognized",
+    "incident-desc": "Players in Asia or the Pacific Rim (that are not in a safehouse) each lose 1 cover."
+  },
+  "San Francisco": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in South America."
+  },
+  "Santiago": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Africa."
+  },
+  "Sao Paulo": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  },
+  "Shanghai": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  },
+  "Sydney": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  },
+  "Tokyo": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in North America."
+  },
+  "Toronto": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in Africa."
+  },
+  "Warsaw": {
+    "incident-name": "Sleeper Cells Activate",
+    "incident-desc": "Place an agent in every city with 1 or more Incident tokens in the Pacific Rim."
+  },
+  "Washington": {
+    "incident-name": "Teams Compromised",
+    "incident-desc": "Shift each team in a city with surveillance (that is not in a safehouse) to Washington."
+  }
+}

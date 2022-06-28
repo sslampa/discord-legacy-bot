@@ -4,17 +4,12 @@ module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('legacy-user')
 		.setDescription('Replies with user information!')
-    .addSubcommand(subcommand =>
-			subcommand.setName('input')
+    .addStringOption(option => option
+				.setName('player')
 				.setDescription('Enter a player')
-				.addUserOption(sub =>
-						sub.setName('cards')
-							.setDescription('Info about player cards')
-							// .addUserOption(option => option.setName('target'))
-				)
-		),
+				.setRequired(true)),
 	async execute(interaction) {
-    const input = interaction.options.getString('input').toLowerCase();
-		await interaction.reply(interaction.client.players.get(input).info());
+    const player = interaction.options.getString('player').toLowerCase();
+		await interaction.reply(interaction.client.players.get(player).info());
 	},
 }

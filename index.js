@@ -7,7 +7,9 @@ const User = require('./models/user');
 
 const players = require('./seeds/players.json');
 const playerCards = require('./seeds/player-cards.json');
+const threatCards = require('./seeds/threat-cards.json');
 const PlayerCard = require('./models/player-card');
+const ThreatCard = require('./models/threat-card');
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
@@ -34,6 +36,12 @@ client.playerCards = new Collection();
 for (const key in playerCards) {
 	const playerCard = playerCards[key]
 	client.playerCards.set(key.toLowerCase(), new PlayerCard(key, playerCard.country, playerCard.continent, playerCard.affiliation))
+}
+
+client.threatCards = new Collection();
+for (const key in threatCards) {
+	const threatCard = threatCards[key]
+	client.threatCards.set(key.toLowerCase(), new ThreatCard(key, threatCard['incident-name'], threatCard['incident-desc']))
 }
 
 // Events
