@@ -1,0 +1,32 @@
+{
+  "Drive / Ferry": {
+    "description": "Move to an adjacent city."
+  },
+  "Commercial Flight": {
+    "description": "Reveal an Allied city card in your hand to move to the matching city. Discard a Neutral City card to move to the matching city. You cannot move to a Soviet city using the Commercial Flight action."
+  },
+  "Unrecorded Flight": {
+    "description": "Discard the City card that matches your city to move to any city."
+  },
+  "Neutralize Agent": {
+    "description": "Remove an agent from your city."
+  },
+  "Share Intel": {
+    "description": "Either: give a card that matches the city you are in to another player or take that card from another player. The other player must also be in the city with you."
+  },
+  "Build Safehouse": {
+    "description": "Discard the City card that matches your city to build a safehouse there."
+  },
+  "Identify Target City": {
+    "description": "While at a safehouse, discard 3 City cards matching your region to reveal the target city of your region under an Objective card."
+  },
+  "Assemble Team": {
+    "description": "While at a safehouse, discard 5 City cards matching the affiliation of your city to put a team of that affiliation there."
+  },
+  "Drive / Ferry Team": {
+    "description": "Move a team to an adjacent city."
+  },
+  "Acquire Targets": {
+    "description": "Select an Acquire Target objective. If you have active teams in the required cities, you complete it. If not, you fail that objective."
+  }
+}

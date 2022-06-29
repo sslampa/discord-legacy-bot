@@ -3,13 +3,16 @@ const { Client, Intents, Interaction, Collection } = require('discord.js');
 const { token } = require('./config.json');
 const fs = require('node:fs')
 const path = require('node:path')
-const User = require('./models/user');
 
 const players = require('./seeds/players.json');
 const playerCards = require('./seeds/player-cards.json');
 const threatCards = require('./seeds/threat-cards.json');
+const actions = require('./seeds/actions.json');
+
+const User = require('./models/user');
 const PlayerCard = require('./models/player-card');
 const ThreatCard = require('./models/threat-card');
+const Action = require('./models/action');
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
@@ -38,10 +41,18 @@ for (const key in playerCards) {
 	client.playerCards.set(key.toLowerCase(), new PlayerCard(key, playerCard.country, playerCard.continent, playerCard.affiliation))
 }
 
+// Threat Cards
 client.threatCards = new Collection();
 for (const key in threatCards) {
 	const threatCard = threatCards[key]
 	client.threatCards.set(key.toLowerCase(), new ThreatCard(key, threatCard['incident-name'], threatCard['incident-desc']))
+}
+
+// Actions
+client.playerActions = new Collection();
+for (const key in actions) {
+	const action = actions[key]
+	client.playerActions.set(key.toLowerCase(), new Action(key, action.description))
 }
 
 // Events
